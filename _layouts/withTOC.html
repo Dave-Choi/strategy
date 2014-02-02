@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			{{content}}
+		</div>
+		<div id="toc-container" class="col-md-4">
+			<ul id="toc" class="nav nav-pills nav-stacked" data-spy="affix">
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script>
+
+	function dasherize(str){
+		return str.toLowerCase().split(" ").join("-");
+	}
+
+	$("h1, h2, h3, h4, h5, h6").each(function() {
+	    var current = $(this);
+	    var text = current.html();
+	    var dasherizedText = dasherize(text);
+	    this.id = dasherizedText;
+	    $("#toc").append("<li><a href='#" + dasherizedText + "'>" + text + "</a></li>");
+	});
+
+	$("body").scrollspy({target: "#toc-container"}).scrollspy("refresh");
+</script>
