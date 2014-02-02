@@ -1,4 +1,4 @@
-markdown: redcarpet
 name: Strategy
+markdown: maruku
 pygments: true
 baseurl: "/strategy"
