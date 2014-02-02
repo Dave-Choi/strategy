@@ -75,7 +75,7 @@ Consider a 2 player game, in round 6, with no family growth yet, so each player 
 
 You're the starting player, and you decide to take a large stack of reed with your first action.  You have 0 food, need 4 to feed at the end of round 7, and you're hoping to grab the pile of 4 food from the Fishing action with your next move, since I already have as much food as I need, and there's a pile of 6 wood that you know I want to use to build a room and some stables.
 
-Instead of taking the wood, I take the food from fishing, and now you have 3 actions to get 4 food.  There's enough clay to get the second fireplace, but by the time you take the clay, build the fireplace, and then try to take sheep, I could have taken the sheep, or taken to Major Improvement space to upgrade my Fireplace to a Cooking Hearth to block you, so that plan isn't safe.  So now you have to take Day Laborer, and hope you can get it again next round.
+Instead of taking the wood, I take the food from fishing, and now you have 3 actions to get 4 food.  There's enough clay to get the second fireplace, but by the time you take the clay, build the fireplace, and then try to take sheep, I could have taken the sheep, or taken the Major Improvement space to upgrade my Fireplace to a Cooking Hearth to block you, so that plan isn't safe.  So now you have to take Day Laborer, and hope you can get it again next round.
 
 With my second action, I take starting player and play a minor improvement.  There's now 9 wood piled up, but instead of taking it, I take Day Laborer.  Now you have 2 actions to get 2 food, and the best you can do is take the 1 food from Fishing, and take a grain and eat it raw.  So you take one of them.
 
