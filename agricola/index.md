@@ -110,7 +110,9 @@ To ranch effectively, you need space for your animals to breed, which means at l
 
 An effective way to get your ranch started is to collect 9 wood, 2 reed, and build your first wooden room and two stables, commonly referred to as "breeding stables".  This allows you to hold two animals in your stables and breed one into your home, which you can eat every harvest.  The breeding animals that you hold onto also provide you with extra flexibility to skip normal feeding actions to capitalize on high value resource grabs and the like.  One more benefit to breeding stables is that it gives you the capacity right away to hold 3 types of animals, which is worth 6 points.  So if you keep getting blocked on wood with which to fence, you're at least not blocked on points for animals in the late game.
 
-For 6 more wood, you can fence a separate 1x2 pasture that will allow you to breed a second type of animal.  You may be better off just eating your initial sheep, so you can afford to keep a breeding pair of boar, and use the extra flexibility to try to grab more wood for full fences, as they are the easiest way to cover ground and clear negatives.
+For 6 more wood, you can fence a separate 1x2 pasture that will allow you to breed a second type of animal.  Or for 7 wood, you can fence your stables.
+
+You may be better off just eating your initial sheep, so you can afford to keep a breeding pair of boar, and use the extra flexibility to try to grab more wood for full fences, as they are the easiest way to cover ground and clear negatives.
 
 In order to breed, you need to have enough food that you can hold onto your grabbed animals, instead of eating them.  Don't hesitate to take piles of food from Fishing or Traveling Players to buy yourself the necessary surplus early on, because breeding animals will make you much more flexible for the rest of the game.
 
