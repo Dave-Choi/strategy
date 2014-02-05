@@ -91,14 +91,6 @@ Because you didn't secure your food, you got forced to take 4 actions in a row d
 Remember to think before you grow your family.  Every family member needs to be fed two food at harvest, unless they're grown the round of the harvest, in which case they only need to be fed 1.  Sometimes, it doesn't pay off to get an extra action earlier, if it means you'll have to spend extra turns gathering food, or if it will keep you from being able to breed your animals.  You don't want to grow your family just to be put in a situation where you can be starved or manipulated.  Make sure you have enough food before you grow, and a plan to be able to feed at full price next harvest.
 
 
-## Baking or Ranching
-Generally speaking, baking is not advisable unless you have a hand that strongly supports it.  A Clay Oven converts up to 1 grain to 5 food, which is a good deal, but it requires an action that combines with the sow action, which you usually aren't going to want to do more than once per harvest.  With a large family, that means you will have to supplement your food income.
-
-Add to this, there's only one sow/bake spot on the board, regardless of the number of players.  When the player count is low, there are plenty of animals, so why bake?  When the player count is high, the sow/bake spot is highly contested, because even ranchers need to sow crops, so why bake?  You really need a good reason.
-
-Ranching utilizes a Fireplace or Cooking Hearth and allows you to convert animals and vegetables to food at any time.  They also provide a low efficiency bake option, which can be a lifesaver sometimes.  In the absence of a strong reason to bake, you should default to ranching.
-
-
 ## Baking Basics
 To sustain a baking engine, you'll generally need two grain fields fairly early, in order to be able to bake, and to have extra grain to sow, to continue your baking cycles.  Without improvements, you're generally looking at sowing 2 fields before the first harvest, or sowing once before the first harvest, and again before the second.  This is a lot of actions to spend at a time when you generally want to be focusing on house expansion and family growth.  Occupations and improvements that provide more grain can really help to soften this blow.  Seasonal Worker, Corn Scoop, Seed Seller, etc.  Plows are actually not that useful for bakers because by the time you can play them, it's generally already too late to get your fields going.
 
@@ -115,6 +107,42 @@ For 6 more wood, you can fence a separate 1x2 pasture that will allow you to bre
 You may be better off just eating your initial sheep, so you can afford to keep a breeding pair of boar, and use the extra flexibility to try to grab more wood for full fences, as they are the easiest way to cover ground and clear negatives.
 
 In order to breed, you need to have enough food that you can hold onto your grabbed animals, instead of eating them.  Don't hesitate to take piles of food from Fishing or Traveling Players to buy yourself the necessary surplus early on, because breeding animals will make you much more flexible for the rest of the game.
+
+
+## Baking or Ranching
+Generally speaking, baking is not advisable unless you have a hand that strongly supports it.  A Clay Oven converts up to 1 grain to 5 food, which is a good deal, but it requires an action that combines with the sow action, which you usually aren't going to want to do more than once per harvest.  With a large family, that means you will have to supplement your food income.
+
+Add to this, there's only one sow/bake spot on the board, regardless of the number of players.  When the player count is low, there are plenty of animals, so why bake?  When the player count is high, the sow/bake spot is highly contested, because even ranchers need to sow crops, so why bake?  You really need a good reason.
+
+Ranching utilizes a Fireplace or Cooking Hearth and allows you to convert animals and vegetables to food at any time.  They also provide a low efficiency bake option, which can be a lifesaver sometimes.  In the absence of a strong reason to bake, you should default to ranching.
+
+<div class="well" markdown="1">
+<p class="lead">Cues to Bake</p>
+
+Certain occupations and improvements can make baking a solid choice.  There are some cards that will make it seem like you have a strong baking hand, but it can sound better than it really is.  Generally, you'll need a combination of a few.
+
+Because you don't really want to spend 5 actions setting up 2 grain fields before first harvest, and around 3 actions collecting resources and building an oven, look for ways to save on these actions.
+
+The reason you need two fields, normally, is because taking 1 grain is very inefficient, and you want to sow each time you bake.  The Corn Scoop, Market Crier, Market Woman, Seed Seller, Grain Cart will all supply multiple grain per action, which will mitigate the need for early double fields.
+
+Serf provides you with a grain before every sow/bake action, so you can bake effectively with no fields, even, though it's still better to get sows in with the action.  The Baker also lets you get away with fewer fields, because you can bake after harvesting, which gives you tremendous freedom in your worker placement.  Playing the Baker also gives you a free bake action as you're playing the occupation, which you shouldn't waste.  
+
+Field Watchman lets you plow a field every time you take a grain, which makes setting up grain fields totally effortless.  The Acreage minor improvement gives you two fields to plant grain in for free, if you have one occupation.
+
+The Bakehouse, Baker's Kitchen, and Baker's Oven all provide the same utility, but differ by stone cost and victory points.  Stone is hard to get, so cheaper is better.  These let you bake 2 grain into 10 food, which is super efficient, and will leave you with huge surpluses of food if used every harvest, and will buy you breathing room when you can't work it in.  The fact that you can bake as soon as you play them gives you a lot of space to work.
+
+The Millstone adds 2 food to baking actions (this happens once per baking action, not per grain baked), which can make a Clay Oven able to stand on its own, but I'll just as often use it to enhance the baking on my Cooking Hearth, making it the most flexible cooking improvement possible.  Really not bad for 1 stone.
+
+In 2 and 3 player games, it's either impossible to get early stone for an oven, or very inefficient (using the 1 building resource space in 3P).  The Baking Tray lets you reduce the cost of each oven by one resource of your choice, and turns them into minor improvements for you, letting you lump building them in with family growth, or starting player.  I don't believe it's enough to justify baking on its own, but it helps tip the scale that way.
+
+Cards that let you get a bunch of different kinds of animals, I think, are a good incentive to bake.  Animal Handler, Clay Seller, Farmer, to a certain extent, will let you fill out your farm at the end of the game, and reinforce baking strategies.
+
+Cards that add extra opportunities to bake will make baking a little safer, as you'll have alternatives to the sow/bake space.  Bread Paddle, Flail and Threshing Board fall into this category.
+
+There are a bunch of cards that will let you sow extra onto a field, but I think these generally work better for ranchers, and aren't a good incentive to bake.  If you're baking, you're sowing often, and shouldn't have trouble maxing out your crops.
+
+There are more cards, but if I don't see a few of these, I generally won't consider baking.
+</div>
 
 
 ## Number of Players
