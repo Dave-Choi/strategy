@@ -246,4 +246,41 @@ The game presents you with a lot of options right from the start, and if you don
 6.	Stage 6 (Round 14)
 	- Plan out how you can get the most points, and evaluate how your opponents can get the most points.  Prioritize your actions, and be wary of anything that requires setup (e.g. grabbing resources, playing an occupation, etc.), as your opponents will be super attentive about getting in your way and preventing your scoring.  Don't waste turns grabbing stone when there are two people who already have the resources to renovate at the start of the round.  Find sure ways to score.
 
+
+## Player Interaction
+
+<div class="well" markdown="1">
+<p class="lead">Denial</p>
+
+I mentioned before that denial can be a good tactic (denying clay can prevent 2 renovations, and denying food can force a lot of inefficient actions), but it's easy to get hooked on that feeling and overdo it.
+
+With two players, your interaction is very direct, and denial is much stronger.  With more players, any single person that you mess with might suffer, but the other players can run away with the game.
+
+I've seen horror stories of people who've taken 100% of the reed all game (which prevents house expansion, family growth and renovation) losing, because their over-focus on denying that one resource let the other players take big stacks of other resources, and there's only so much you can do with that much reed yourself.
+
+Denying reed feels good because it blocks so many important things, but small families are easy to feed, which leaves a lot of freedom.  Notably, denying reed doesn't really have any effect on ability to feed, which I think makes it pretty weak.
+
+I think denying clay is more effective, on account of it interfering with renovations, but also with cooking improvements (fireplaces, cooking hearths, and ovens).  A player who snatches up a lot of wood and reed early can suffer badly if they don't have enough clay to build a Fireplace.  They might have 4 rooms, but won't be able to risk growing their family, leaving their rooms unfilled, and providing them no value.
+
+Ultimately, I think food denial is the only denial consistently worth pursuing.  Accumulating food gives you extra freedom, while making your opponents waste their turns gathering scraps.
+
+What you'll find is that most of the time, your self-motivated play (basing your decisions directly on what will get you the most points), is also the most effective denial strategy.  That is, when you take that pile of 6+ wood, you've denied *everyone* 6+ wood, while making an efficient play for yourself (6 wood normally takes 2 actions to collect).
+</div>
+
+<div class="well" markdown="1">
+<p class="lead">Starting Player</p>
+
+Being the starting player is very clearly a good thing, as you have access to the largest resource piles, and the best actions in the late game.  Knowing when to take it is a large part of doing well.
+
+Some situations are very clear cues.  If you're taking the last action in a round, and the other players haven't taken wood, you never want to take the wood with your last action.  Even if you don't have a minor improvement to play, it's better to take starting player and take the 6 wood next round.  Two actions for 6 wood is about normal, but you've also taken starting player, and your opponents must take it back.  If you do have a minor improvement to play, then it's just amazingly good.
+
+Starting player in the first round is generally a pretty strong play, because you have access to the first pair of reed or pair of clay, leaving your opponents to scramble for the next pair of reed or 3 clay, while you have some more freedom.  Because of this, I recommend always trying to draft a minor improvement with no prereq, or one that you can get in the first action in the first round.
+
+Round 11 and round 13 are also particularly important rounds to take starting player.  Round 12 opens up family growth without room or plow and sow, which are both very strong.  Round 14 opens up renovate and build fences, which can be a huge point gain.
+
+More experienced players will often try to fill their hands with weaker minor improvements that have low prerequisites or costs, because of the power of the starting player/minor improvement play.  Minors that stay in your hand provide you no benefit at all.
+
+Having a larger family than your opponents also gives you incredible momentum, because you have spare actions to take starting player back whenever you lose it.
+</div>
+
 <script src="../js/agricola-dictionary.js"></script>
