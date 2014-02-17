@@ -283,4 +283,30 @@ More experienced players will often try to fill their hands with weaker minor im
 Having a larger family than your opponents also gives you incredible momentum, because you have spare actions to take starting player back whenever you lose it.
 </div>
 
+<div class="well" markdown="1">
+<p class="lead">When to Build Major Improvements</p>
+
+When you want to play major improvements on your farm, there's some play in the timing.
+
+Getting the first Fireplace in the game is a big advantage, but you can eke out extra advantages for yourself if you delay actually building it.
+
+Consider a two player game (there's 1 clay spot, which accumulates at 1 per round), you're starting player in round 2, and you take the pair of clay instead of the pair of reed, because sheep appeared in the first round, so you know you can probably score a big pile of sheep, which will afford you a lot of flexibility later in the game.
+
+At this point, barring certain occupations, you've secured the first fireplace for yourself, even though you're not technically holding it yet.  By just holding those two clay in your supply, your opponent has to wait 3 more turns for enough clay to pile up before they can take it and be secure in getting a fireplace.  If they take 2 clay, you can build the first fireplace, and they have to take more clay to get one, and they've wasted an action.
+
+Either they take a very ineffient action, to get the 3 clay fireplace, or they wait for 2 rounds, and try to get a Cooking Hearth.  If you already have your fireplace when they take the 4 clay, you can upgrade your fireplace, and block them again.
+
+You *can* build the fireplace as soon as you get the clay, but doing so means you're not taking something else, which isn't secured.  You have to weigh the opportunity cost.  Sometimes you'll need the early food to make a play like early Lover, but most of the time, you're better off taking other opportunities and only building the improvement when you need to, or when doing so will waste your opponents' actions (while you get something you wanted anyway).
+
+A lot of the time, if I get the first fireplace, I'm just as happy to let my opponent take a big stack of sheep that they're just discarding, to deny me.  I got the fireplace I can use all game, and they effectively took 1 sheep, and left other resources open.  Add to that the fact that I can continue to play cooking hearth keepaway, and you can appreciate why getting the first clay is so strong.
+
+Just be wary in situations where your opponent takes starting player before their last turn.  They can take the resources to build the major they want with their remaining turns, so you have to block them earlier.
+
+Generally speaking, I won't make a cooking hearth a high priority.  The value in a cooking hearth is a little extra efficiency in feeding, when eating boar, cattle, vegetables, and baking.  If you set up a sheep engine early, and have any other supplement from occupations or minors, it basically doesn't make a difference.  It's nice to have, but far from vital.  You should be trying to keep as many boar and cows as you can for points anyway.
+
+The point of efficient feeding is that it allows you to take other actions.  If you overprioritize a cooking hearth, it counteracts the small advantage that it gives you, because you're passing up actions and resources that develop your farm, and it's likely to be a waste of time.
+
+The exception is when you know you're going to be eating a lot of those things, like if you have Swineherd, or early vegetables.
+</div>
+
 <script src="../js/agricola-dictionary.js"></script>
