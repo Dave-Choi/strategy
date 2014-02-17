@@ -306,7 +306,7 @@ Generally speaking, I won't make a cooking hearth a high priority.  The value in
 
 The point of efficient feeding is that it allows you to take other actions.  If you overprioritize a cooking hearth, it counteracts the small advantage that it gives you, because you're passing up actions and resources that develop your farm, and it's likely to be a waste of time.
 
-The exception is when you know you're going to be eating a lot of those things, like if you have Swineherd, or early vegetables.
+The exception is when you know you're going to be eating a lot of those things, like if you have Swineherd, or early vegetables.  I'll also prioritize it if I can burn food for points, like when using the Grocer, or Pelts.
 </div>
 
 <script src="../js/agricola-dictionary.js"></script>
