@@ -281,6 +281,10 @@ Round 11 and round 13 are also particularly important rounds to take starting pl
 More experienced players will often try to fill their hands with weaker minor improvements that have low prerequisites or costs, because of the power of the starting player/minor improvement play.  Minors that stay in your hand provide you no benefit at all.
 
 Having a larger family than your opponents also gives you incredible momentum, because you have spare actions to take starting player back whenever you lose it.
+
+One trick players will attempt sometimes is to take starting player in stage 2, with their first turn, and then build a room, to get family growth in the next round.  Most of the time, this is an overly greedy play, and experienced players will block it by building their own room, or stables.  If another player already has room for family growth, and has more than 2 wood, or another player has resources to build a room, this isn't a safe/good play.  It can actually swing the game and be a king-making (setting up another player to win the game) event.  
+
+I've had it happen a few times where someone attempted this, when another player already had a room, and I built a room instead, and got first crack at family growth because of the seating order, and I got to run away with the game, because I got the benefit of doing something else instead of rushing the first room (e.g. getting enough for a room and stables, 2 rooms, getting first fireplace, playing a bunch of occupations, etc.), on top of first family growth.
 </div>
 
 <div class="well" markdown="1">
