@@ -15,8 +15,10 @@
 
         <script src="{{site.baseurl}}/js/jquery-2.1.0.min.js"></script>
         <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
-        <script src="{{site.baseurl}}/js/linker.js"></script>
-        <script src="{{site.baseurl}}/js/toc.js"></script>
+
+        {% for script in page.scripts %}
+          <script src="{{site.baseurl}}/js/{{script}}"></script>
+        {% endfor %}
     </head>
     <body>
       {{ content }}
