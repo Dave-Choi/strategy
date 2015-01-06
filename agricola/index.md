@@ -1,6 +1,7 @@
 ---
 layout: withTOC
 title: Agricola Strategy
+scripts: [toc.js, agricola-dictionary.js, linker.js, link-agricola.js]
 ---
 
 <div class="page-header">

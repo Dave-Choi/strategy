@@ -46,7 +46,3 @@ function setupLinks(target, dictionary){
 
 	$target.html(string);
 }
-
-$(document).ready(function(){
-	setupLinks(document.body, AgricolaDictionary);
-});
