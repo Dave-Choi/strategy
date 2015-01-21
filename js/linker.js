@@ -21,10 +21,10 @@ function setupLinks(target, dictionary){
 		var tok = entry[0].replace(/['’]/g, "['’]");
 		var href = entry[1];
 
-		var tokRE = new RegExp("([^!])\\b(" + tok + ")\\b", "g"); /* 
+		var tokRE = new RegExp("([^!])\\b(" + tok + ")\\b([^!])", "g"); /* 
 			The [^!] part is a really rudimentary way to make sure
 			we're not writing over our own links by checking
-			the token isn't preceded by an exclamation point.
+			the token isn't preceded or followed by an exclamation point.
 
 			This is as close as JS gets to regex lookbehind without
 			jumping through some crazy hoops like reversing the
@@ -37,12 +37,13 @@ function setupLinks(target, dictionary){
 
 		string = string.replace(
 			tokRE,
-			'$1<a href="' + href + '">!$2</a>'
+			'$1<a href="' + href + '">!$2!</a>$3'
 		);
 	}
 
 	// Clean up the markers after we're done processing the dictionary
 	string = string.replace(/>!/g, ">");
+	string = string.replace(/!</g, "<"); // This could be bad if you write with a lot of exclamation points!
 
 	$target.html(string);
 }
