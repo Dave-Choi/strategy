@@ -190,7 +190,7 @@ My early actions are generally spent taking quests and Intrigue cards (i.e. Hall
 There are Undermountain plot quests that give you bonuses for taking quests of a particular type (Recover the Flame of the North, Ally with the Xanathar's Guild, Sponsor Bounty Hunters, Sanctify a Desecrated Temple, Establish Wizard Academy).  There's also Bribe the Shipwrights, which gives you a rogue when you take gold with an action (Cliffwatch Inn 2, Hall of the Voice), Shelter Zhentarim Agents, which gives you an Intrigue card when you take corruption (Hall of the Voice), and Study in the Librarium, which lets you draw and play an extra Intrigue card (Entry Well).  That's it, unless someone builds a building that lets you take a quest.
 </div>
 
-For quest selection, I prioritize good plot quests > quests that allow me to return corruption > quests for points.
+For quest selection, I prioritize good plot quests > quests that allow me to return corruption > quests that let me turn abundant resources into short supply resources > quests for points.
 
 Knowing that you'll be able to return corruption buys you a lot of freedom, and it's worth spending actions to get these into your hand early, because quests can't be taken away, and it keeps it out of the hands of your opponents, denying them that freedom, and making taking corruption a risky proposition for them.
 
