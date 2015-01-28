@@ -1,0 +1,21 @@
+.nav{
+	padding-left: 15px;
+}
+
+.nav>li>a{
+	padding: 5px;
+	border-left: solid transparent 2px;
+}
+
+.nav>.active>a{
+	border-left: solid black 2px;
+}
+
+/* hide all (inactive) nested list */
+.nav ul.nav {
+	display: none;
+}
+/* show active nested list */
+.nav>.active>ul.nav {
+	display: block;
+}
