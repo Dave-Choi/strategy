@@ -71,7 +71,7 @@ The surest way to lose a game of Agricola is to neglect your food engine.  When 
 Any time you're in a position where you're not guaranteed to be able to feed your family, you can be manipulated by other players.
 
 <div class="well" markdown="1">
-<p class="lead">Slippery Slope</p>
+###Slippery Slope
 Consider a 2 player game, in round 6, with no family growth yet, so each player has 2 actions per round.
 
 You're the starting player, and you decide to take a large stack of reed with your first action.  You have 0 food, need 4 to feed at the end of round 7, and you're hoping to grab the pile of 4 food from the Fishing action with your next move, since I already have as much food as I need, and there's a pile of 6 wood that you know I want to use to build a room and some stables.
@@ -118,7 +118,7 @@ Add to this, there's only one sow/bake spot on the board, regardless of the numb
 Ranching utilizes a Fireplace or Cooking Hearth and allows you to convert animals and vegetables to food at any time.  They also provide a low efficiency bake option, which can be a lifesaver sometimes.  In the absence of a strong reason to bake, you should default to ranching.
 
 <div class="well" markdown="1">
-<p class="lead">Cues to Bake</p>
+###Cues to Bake
 
 Certain occupations and improvements can make baking a solid choice.  There are some cards that will make it seem like you have a strong baking hand, but it can sound better than it really is.  Generally, you'll need a combination of a few.
 
@@ -168,7 +168,7 @@ Your hand helps to establish your potential, i.e. How you can score points beyon
 One thing that trips up a lot of players accustomed to other games is that there's a strong temptation to combo.
 
 <div class="well" markdown="1">
-<p class="lead">Resist Overcomboing</p>
+###Resist Overcomboing
 <blockquote>If I play Bricklayer, Clay Supports, Ladder, and renovate early, I can build rooms for 1 wood each!</blockquote>
 
 You can, and it sounds amazing, but it cost you 4 wood, 1 clay, about 4 actions between playing the improvements, occupation, and renovation, at least 2 actions to gather the resources, and you might not be able to make your first room until round 8 or later, if the renovation action didn't come until round 7.  You can also get blocked out of playing the improvements, delaying you further.
@@ -185,6 +185,7 @@ When planning and evaluating what to play vs. what to keep in your hand, or pass
 Some cards are definitely stronger than others, and some combos are absolutely worth it.  Hedge Keeper + Stablehand lets you get 16 points worth of stables and pastures, and opens the door for the full 15 points on animals, for 5 wood, instead of 23.  Getting your first fenced stable for 1 wood can also let you store a lot of sheep that you can use later, even if you got blocked from getting an early fireplace, without setting you back on your progress to room building and family growth.
 
 <div class="well" markdown="1">
+###External Resources
 Card by card evaluations of all EIK improvements and occupations, which I mostly agree with, can be found here:
 
 [Major and Minor Improvements](http://boardgamegeek.com/thread/458895/card-by-card-a-full-review-of-the-improvements)
@@ -251,7 +252,7 @@ The game presents you with a lot of options right from the start, and if you don
 ## Player Interaction
 
 <div class="well" markdown="1">
-<p class="lead">Denial</p>
+###Denial
 
 I mentioned before that denial can be a good tactic (denying clay can prevent 2 renovations, and denying food can force a lot of inefficient actions), but it's easy to get hooked on that feeling and overdo it.
 
@@ -269,7 +270,7 @@ What you'll find is that most of the time, your self-motivated play (basing your
 </div>
 
 <div class="well" markdown="1">
-<p class="lead">Starting Player</p>
+###Starting Player
 
 Being the starting player is very clearly a good thing, as you have access to the largest resource piles, and the best actions in the late game.  Knowing when to take it is a large part of doing well.
 
@@ -289,7 +290,7 @@ I've had it happen a few times where someone attempted this, when another player
 </div>
 
 <div class="well" markdown="1">
-<p class="lead">When to Build Major Improvements</p>
+###When to Build Major Improvements
 
 When you want to play major improvements on your farm, there's some play in the timing.
 
