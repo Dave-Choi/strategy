@@ -331,7 +331,7 @@ I play both of these lords roughly the same.  With both, I take a lot of low poi
 
 Both of them benefit greatly from plot quests that give bonuses for completing quests, and Seize Citadel of the Bloody Hand.  Citadel is amazing for anyone, but especially good for these two lords.  Also, Diplomatic Mission to Suzail.
 
-To a lesser extent, plot quests that give resources for taking quests (e.g. The Undermountain quests: Ally With the Xanathar's Guild, Recover the Flame of the North, etc.) are great for these two.
+To a lesser extent, plot quests that give resources for taking quests (e.g. The Undermountain quests: Ally with the Xanathar's Guild, Recover the Flame of the North, etc.) are great for these two.
 
 Look to purchase buildings that allow you to take more quests, too.
 
